@@ -1,4 +1,4 @@
-# flutterappfortouch
+# Flutter app
 
 A new Flutter application.
 
